@@ -1,0 +1,16 @@
+[project]
+name = "genesis-framework"
+version = "1.0.0"
+description = "Enterprise Project Generator"
+requires-python = ">=3.14"
+
+dependencies = [
+    "click",
+    "jinja2",
+    "rich",
+    "pyyaml"
+]
+
+[build-system]
+requires = ["setuptools>=80"]
+build-backend = "setuptools.build_meta"
