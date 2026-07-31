@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+
+# Generated projects
+DemoProject/
+DemoV2/
+EnterpriseDemo/
+GenesisTest001/
+MyCompany/
+SchoolSystem/
+TemplateTest/

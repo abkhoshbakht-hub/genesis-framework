@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Generated test projects
+DemoProject/
+DemoV2/
+EnterpriseDemo/
+GenesisTest001/
+MyCompany/
+SchoolSystem/
+TemplateTest/
